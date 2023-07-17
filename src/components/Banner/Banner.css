@@ -1,0 +1,29 @@
+.banner {
+    background: linear-gradient(45deg, #F09819, #ED1C24, #22B573, #6188E2, #1C1CD6);
+    background-size: 600% 600%;
+    animation: gradient 10s ease infinite; /* Animación para mover el gradiente de fondo */
+    color: white; /* Asegura que el texto se vea en contraste con el fondo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px; /* Ajusta esto según lo necesites */
+}
+
+@keyframes gradient {
+    0% {background-position: 0% 50%;}
+    50% {background-position: 100% 50%;}
+    100% {background-position: 0% 50%;}
+}
+
+.banner-container {
+    text-align: center; /* Centra el texto dentro del contenedor del banner */
+}
+
+.banner-container h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px; /* Espacio entre el título y el subtítulo */
+}
+
+.banner-container p {
+    font-size: 1.2em;
+}

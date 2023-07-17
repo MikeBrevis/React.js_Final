@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Cerezos estilo japones",
+        "character": "Flores",
+        "price": 59.990,
+        "img": "https://www.vevancustoms.com/cdn/shop/products/DSC_7072_800x.jpg?v=1676076529"
+    },
+    {
+        "id": 2,
+        "name": "Tanjiro - Kimetsu no Jaiba",
+        "character": "kimetsu",
+        "price": 79.990,
+        "img": "https://www.vevancustoms.com/cdn/shop/products/DSC_6163-2_800x.jpg?v=1676074394"
+    },
+    {
+        "id": 3,
+        "name": "Mario Bros - Wario",
+        "character": "wario",
+        "price": 83.990,
+        "img": "https://www.vevancustoms.com/cdn/shop/products/DSC_6119_800x.jpg?v=1675930496"
+    },
+    {
+        "id": 4,
+        "name": "Silver Control Shine",
+        "character": "Silver",
+        "price": 39.990,
+        "img": "https://www.vevancustoms.com/cdn/shop/files/DSC_7778_800x.jpg?v=1682887436"
+    },
+    {
+        "id": 5,
+        "name": "Spy Family custom",
+        "character": "spy",
+        "price": 119.990,
+        "img": "https://www.vevancustoms.com/cdn/shop/products/DSC_6864_1200x.jpg?v=1676074866"
+    },
+    {
+        "id": 6,
+        "name": "Menta Fresca",
+        "character": "menta",
+        "price": 110.990,
+        "img": "https://www.vevancustoms.com/cdn/shop/products/2_1200x.jpg?v=1676074811"
+    }
+
+]
+
+
